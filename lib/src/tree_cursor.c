@@ -365,3 +365,4 @@ TSTreeCursor ts_tree_cursor_copy(const TSTreeCursor *_cursor) {
   array_push_all(&copy->stack, &cursor->stack);
   return res;
 }
+
