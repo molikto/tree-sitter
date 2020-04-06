@@ -15,9 +15,4 @@
 #include "./subtree.c"
 #include "./tree_cursor.c"
 #include "./tree.c"
-<<<<<<< HEAD
-=======
-#include "./utf16.c"
-#include "utf8proc.c"
 #include "zipper.c"
->>>>>>> master
